@@ -1,12 +1,35 @@
-## Hi there 👋
+# ✨ Vertex
 
-<!--
+**Vertex** is a publishing platform dedicated to bringing together high-quality Firefox mods in one unified space.  
 
-**Here are some ideas to get you started:**
+Unlike a mod manager, Vertex serves as a **curation and collaboration hub**. Our purpose is to showcase outstanding work, provide visibility for creators, and offer users a reliable source for discovering and following the best mods available.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Vertex complements tools such as **Sine** (a widely used mod manager) rather than replacing them. By centralizing discovery and fostering community, we aim to ensure that quality projects receive the attention they deserve.
+
+---
+
+## 🔑 Key Features
+- 📂 **Centralized Mod Discovery** – Access a curated collection of high-quality Firefox mods.  
+- 👩‍💻 **Creator Support** – A dedicated space for mod developers to share ideas and collaborate.  
+- 📝 **Mod Requests** – Users may submit requests for potential future projects.  
+- 💬 **Community Engagement** – An active server for discussions on mods, development, and general conversation.  
+
+---
+
+## 🧩 Initial Mod Portfolio
+To establish the foundation of Vertex, the following projects by **12th** are now available:  
+- ⚡ **Advacned Tab Groups**  
+- 📑 **Tidy Tabs**  
+- 🗓️ **Live Calendar**  
+- 📥 **Tidy Downloads**  
+
+Additional contributions from other recognized creators, including **Bibek**, will be published on Vertex in the near future.
+
+---
+
+## 🎯 Mission
+Our mission is to **connect mod creators and users** in a single collaborative environment, ensuring innovative and well-crafted mods remain visible, accessible, and supported.  
+
+---
+
+✨ **Vertex** — Bringing creators and users together.
