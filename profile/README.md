@@ -32,4 +32,10 @@ Our mission is to **connect mod creators and users** in a single collaborative e
 
 ---
 
+## 🌎 Community 
+
+https://discord.gg/jKDpXhxwsV
+
+---
+
 ✨ **Vertex** — Bringing creators and users together.
