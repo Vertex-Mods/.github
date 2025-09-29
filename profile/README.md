@@ -1,4 +1,4 @@
-# ✨ Vertex
+# <img width="62" height="62" alt="Vertex_Logo_V2" src="https://github.com/user-attachments/assets/a6873978-5cc3-46dc-930c-7e6ce68e5879" /> Vertex
 
 **Vertex** is a publishing platform dedicated to bringing together high-quality Firefox mods in one unified space.  
 
