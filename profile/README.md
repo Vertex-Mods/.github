@@ -32,9 +32,11 @@ Our mission is to **connect mod creators and users** in a single collaborative e
 
 ---
 
-## 🌎 Community 
+## 🌎 Community
 
-https://discord.gg/jKDpXhxwsV
+This Discord community is all about having a friendly, and curious ideas being shared, or asking for help and even have some fun in this server. Also, this server is also used to share updatees, or new mod release that you guys could use. So, join and enjoy people.
+
+<a href="https://discord.gg/jKDpXhxwsV" href="#" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
 
 ---
 
